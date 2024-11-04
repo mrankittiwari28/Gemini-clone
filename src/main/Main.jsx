@@ -25,7 +25,7 @@ const {onSent,recentPrompt,showResult,loading,resultData,setInput,input}=useCont
          ?<>
 
              <div className='greet'>
-               <p><span>Hello,Dev</span></p>
+               <p><span>Hello Boss,</span></p>
                <p>How can I help you today</p>
              </div>
 
